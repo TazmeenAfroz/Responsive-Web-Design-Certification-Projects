@@ -32,8 +32,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="300"/>
-<img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="300" height="200"/>
+<img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="300" style="max-width:100%;"/> <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="300" style="max-width:100%;"/>
 
 ---
 
