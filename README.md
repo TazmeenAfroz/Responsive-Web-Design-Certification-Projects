@@ -36,8 +36,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 
 ## Screenshots
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="500";"/>
+<div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="300";"/>
      <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/CSS-color%20Markers/Screenshot%20from%202024-01-04%2022-11-43.png" alt="Markers" width="300";"/>
    <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="700" style="max-width:100%;"/>
    
