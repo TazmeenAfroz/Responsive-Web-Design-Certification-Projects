@@ -44,7 +44,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 <div style="display: inline-content;">
     <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="300";"/>
      <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/CSS-color%20Markers/Screenshot%20from%202024-01-04%2022-11-43.png" alt="Markers" width="300";"/>
-   <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="700" style="max-width:100%;"/>
- <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="700" style="max-width:100%;"/>
+   <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="500" style="max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="300" style="max-width:100%;"/>
 </div>
 
