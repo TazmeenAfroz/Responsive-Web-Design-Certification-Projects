@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset ="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Survey Form</title>
+  <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+  <fieldset>
+   <form id="survey-form" method="post" action='https://register-demo.freecodecamp.org'>
+    <label id="name-label" for="name">Name:<input id="name" name="name"  type="text" placeholder="Enter your name"required></label>
+  <label id="email-label" for="email">Email:<input id="email" name="email" placeholder="Enter your email"type="email" required></label>
+  <label id="number-label" for="label">Number ID:<input id="number" name="number" type="number" min="0" max="1000" placeholder="Enter your no id"></label>
+
+<label for="dropdown">Current Role: 
+<select id ="dropdown">
+<option value="">select one</option>
+<option value="1">Student</option>
+<option value="2">Full Time Job</option>
+</select>
+</label>
+
+<legend>What you like about us?</legend>
+<input type="radio"name="ch" class="inline" value="1">Courses  </label>
+<input type="radio"name="ch" class="inline" value="2">Projects</label>
+
+<legend>What would you like to see improved? (Check all that apply)</legend>
+<input type="checkbox" value="1" class="inline">Web dev Projects</label>
+<br>
+<input type="checkbox" value="2" class="inline">AI Courses</label>
+<br>
+<input type="checkbox" value="3" class="inline">ML Projects</label>
+<label for="Comments">Additional Comments:
+          <textarea id="Comments" name="bio" rows="3" cols="30" placeholder="More Improvement ..."></textarea>
+      
+<input type="submit" value="Submit" id="submit" />
+</fieldset>
+    
+    </form>
+  </body>
+</html>
