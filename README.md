@@ -30,6 +30,12 @@ This repository contains my solutions for the Responsive Web Design Certificatio
    - *Built with HTML5 and CSS3*
 
    - Description: An HTML and CSS project for a survey form.
+     
+6. **Rothko Pantaining**
+   - *Built with HTML5 and CSS3*
+
+   - Description: A CSS and the Box Model to create your own Rothko-style rectangular art pieces.
+
 ---
 
 ## Getting Started
@@ -52,5 +58,7 @@ Follow these instructions to get a copy of the project up and running on your lo
    <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="500" style="max-width:100%;"/>
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="300" style="max-width:100%;"/>
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Survey FOrm/s.png" alt="survey Image" width="300" style="max-width:100%;"/>
+</div>
+ <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="survey Image" width="300" style="max-width:100%;"/>
 </div>
 
