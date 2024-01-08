@@ -59,6 +59,6 @@ Follow these instructions to get a copy of the project up and running on your lo
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="300" style="max-width:100%;"/>
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Survey FOrm/s.png" alt="survey Image" width="300" style="max-width:100%;"/>
 </div>
- <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="survey Image" width="300" style="max-width:100%;"/>
+ <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="survey Image" width="200" style="max-width:100%;"/>
 </div>
 
