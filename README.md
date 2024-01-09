@@ -35,7 +35,11 @@ This repository contains my solutions for the Responsive Web Design Certificatio
    - *Built with HTML5 and CSS3*
 
    - Description: A CSS and the Box Model to create your own Rothko-style rectangular art pieces.
+     
+7. **CSS flexbox photo gallery**
+   - *Built with HTML5 and CSS3*
 
+   - Description: An HTML and CSS project showcasing a photo gallery.
 ---
 
 ## Getting Started
