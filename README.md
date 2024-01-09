@@ -54,12 +54,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Survey FOrm/s.png" alt="Survey Image" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/CSS-color%20Markers/Screenshot%20from%202024-01-04%2022-11-43.png" alt="Markers" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="Rothko Image" width="100%" max-width="350px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/catphoto.png" alt="Cat Photo" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/images/menu.png" alt="Menu Image" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Registeration Form/i.png" alt="Registeration Image" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Survey FOrm/s.png" alt="Survey Image" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/CSS-color%20Markers/Screenshot%20from%202024-01-04%2022-11-43.png" alt="Markers" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
+  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="Rothko Image" width="50%" max-width="100px" height="300px" style="object-fit: cover; border-radius: 10px; margin: 8px;">
 </div>
 
 
