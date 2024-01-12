@@ -40,6 +40,11 @@ This repository contains my solutions for the Responsive Web Design Certificatio
    - *Built with HTML5 and CSS3*
 
    - Description: An HTML and CSS project showcasing a photo gallery.
+
+8. **Nutrition Label**
+   - *Built with HTML5 and CSS3*
+
+   - Description: An HTML and CSS project showcasing a nutrition label using typography(Typography is the art of styling your text to be easily readable and suit its purpose).
 ---
 
 ## Getting Started
@@ -64,6 +69,8 @@ Follow these instructions to get a copy of the project up and running on your lo
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/CSS-color%20Markers/Screenshot%20from%202024-01-04%2022-11-43.png" alt="Markers" width="200px" height="auto" style="max-width:200%; height:auto;">
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="Rothko Image" width="200px" height="auto" style="max-width:200%; height:auto;">
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Photo Gallery/photo.png" alt="PHOTO GALLERY" width="200px" height="auto" style="max-width:200%; height:auto;">
+<img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Nutriton label/Screenshot from 2024-01-12 22-54-06.png" alt="Nutriton Label" width="200px" height="auto" style="max-width:200%; height:auto;">
+   
 </div>
 
 
