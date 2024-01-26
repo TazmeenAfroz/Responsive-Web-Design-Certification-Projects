@@ -46,6 +46,10 @@ This repository contains my solutions for the Responsive Web Design Certificatio
 
    - Description: An HTML and CSS project showcasing a nutrition label using typography(Typography is the art of styling your text to be easily readable and suit its purpose).
 
+9.**Tribute Page**
+  - *Built with HTML5 and CSS3*
+  - Description: An HTML and CSS project showcasing tribute page.
+
 10.**Balance-Sheet**
 - *Built with HTML5 and CSS3*
 Using CSS pseudo selectors for building a  balance sheet
@@ -79,6 +83,7 @@ Follow these instructions to get a copy of the project up and running on your lo
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Rothko Painting/p.png" alt="Rothko Image" width="200px" height="auto" style="max-width:200%; height:auto;">
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Photo Gallery/photo.png" alt="PHOTO GALLERY" width="200px" height="auto" style="max-width:200%; height:auto;">
   <img src="https://raw.githubusercontent.com/TazmeenAfroz/Balance-Sheet/main/sheet.png" alt="Balance Sheet Image" width="200px" height="auto" style="max-width:200%; height:auto;">
+ <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Tribute Page/tribute-page.png" alt="Tribute Page" width="200px" height="auto" style="max-width:200%; height:auto;">
 
    
 </div>
