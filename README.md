@@ -53,10 +53,12 @@ This repository contains my solutions for the Responsive Web Design Certificatio
 10.**Balance-Sheet**
 - *Built with HTML5 and CSS3*
 Using CSS pseudo selectors for building a  balance sheet
+
 11.**Cat painting**
 - *Built with HTML5 and CSS3*
 Using CSS s for building a  Cat Painting
-  12.**Techhnical Documentation**
+
+12.**Techhnical Documentation**
 - *Built with HTML5 and CSS3*
 Using html and css for building a technical documentation page
 ---
@@ -90,7 +92,7 @@ Follow these instructions to get a copy of the project up and running on your lo
   <img src="https://raw.githubusercontent.com/TazmeenAfroz/Balance-Sheet/main/sheet.png" alt="Balance Sheet Image" width="200px" height="auto" style="max-width:200%; height:auto;">
  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Tribute Page/tribute-page.png" alt="Tribute Page" width="200px" height="auto" style="max-width:200%; height:auto;">
   <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Cat-Painting/cat.png" alt="Tribute Page" width="200px" height="auto" style="max-width:200%; height:auto;">
- <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main/Technical-Documentation/tech.png" alt="Technical Page" width="200px" height="auto" style="max-width:200%; height:auto;">
+ <img src="https://raw.githubusercontent.com/TazmeenAfroz/Web-Development-Projects/main//Technical Documentation/tech.png" alt="Technical Page" width="200px" height="auto" style="max-width:200%; height:auto;">
    
 </div>
 
