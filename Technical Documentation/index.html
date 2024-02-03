@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Technical Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+<main id="main-doc">
+<nav id="navbar"><header>Setting Up XAMPP and MySQL on Ubuntu for Beginners</header>     
+
+<a class="nav-link" href="#Introduction">Introduction</a>
+<a class="nav-link" href="#Installing_XAMPP:">Installing XAMPP:</a>
+<a class="nav-link" href="#Starting_and_Stopping_XAMPP:">Starting and Stopping XAMPP:</a>
+<a class="nav-link" href="#Using_MySQL_on_Ubuntu:">Using MySQL on Ubuntu:</a>
+<a class="nav-link"href="#Conclusion:" >Conclusion:</a>
+</nav>
+<section class="main-section" id="Introduction">
+<header>Introduction</header>
+<p>If you’re diving into web development or database management on your Ubuntu machine, setting up XAMPP and MySQL is a great starting point. This guide will walk you through the installation process and how to use MySQL for your projects.</p>
+</section>
+<section class="main-section" id="Installing_XAMPP:">
+<header>Installing XAMPP:</header>
+<p>Start by downloading XAMPP from the official website <a href="https://www.apachefriends.org/">click here</a>. Choose the Linux version and follow these steps:</p>
+<li>Open a terminal with Ctrl + Alt + T.</li>
+<li>Navigate to the Downloads directory:</li>
+<code>cd ~/Downloads</code>
+<p>Make the downloaded file executable:</p>
+<code>chmod +x xampp-linux-x64-&lt;version&gt;.run</code>
+<p>Replace &lt;version&gt; with the downloaded version number.</p>
+<p>Run the installer:</p>
+<code>./xampp-linux-x64-&lt;version&gt;.run</code>
+
+</section>
+<section class="main-section" id="Starting_and_Stopping_XAMPP:">
+<header>Starting and Stopping XAMPP:</header>
+
+<p>Once installed, use the following commands to manage XAMPP:</p>
+<li>Start XAMPP:</li>
+<code>sudo /opt/lampp/lampp start</code>
+<p>This launches the Apache web server and MySQL database server.</p>
+
+<p>Access XAMPP Dashboard:</p>
+<p>
+
+"Open your web browser and go to <a href="http://localhost">local host</a> to see the XAMPP dashboard.</p><p> For database management, visit <a href="http://localhost/phpmyadmin">phpmyadmin</a>.</p>
+<li>Stop XAMPP:</li>
+<code>sudo /opt/lampp/lampp stop</code>
+
+</section>
+<section class="main-section" id="Using_MySQL_on_Ubuntu:">
+<header>Using MySQL on Ubuntu:</header>
+
+<li>Start XAMPP:</li>
+<code>sudo /opt/lampp/lampp start</code>
+
+<li>Access MySQL:</li>
+<code>sudo /opt/lampp/bin/mysql -u root -p</code>
+<p>Press Enter if you haven’t set a password.</p>
+<p>Use MySQL:</p>
+<p>Create a Database:</p>
+<code>CREATE DATABASE your_database_name;</code>
+</section>
+<section class="main-section" id="Conclusion:">
+<header>Conclusion:</header>
+<p>Congratulations! You’ve successfully set up XAMPP and MySQL on your Ubuntu machine.</p>
+</section>
+</main>
+</html>
+
